@@ -1,0 +1,10 @@
+I would like to free the world of disease. I believe that first step is to have data. I therefore seek to record the name of all germs, and their host, which may be human, animal, or plant.
+
+sample data:
+Norovirus, human
+Salmonella, plant
+Clostridium perfringens, human
+Campylobacter, animal
+Staphylococcus aureus, human
+
+reports:
